@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/fizjoterapiazmiana/static/css/main.073c9b0a.css",
-    "main.js": "/fizjoterapiazmiana/static/js/main.cd948375.js",
+    "main.js": "/fizjoterapiazmiana/static/js/main.07e330d9.js",
     "static/js/787.70fc8d95.chunk.js": "/fizjoterapiazmiana/static/js/787.70fc8d95.chunk.js",
     "static/media/logo.svg": "/fizjoterapiazmiana/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/fizjoterapiazmiana/index.html",
     "main.073c9b0a.css.map": "/fizjoterapiazmiana/static/css/main.073c9b0a.css.map",
-    "main.cd948375.js.map": "/fizjoterapiazmiana/static/js/main.cd948375.js.map",
+    "main.07e330d9.js.map": "/fizjoterapiazmiana/static/js/main.07e330d9.js.map",
     "787.70fc8d95.chunk.js.map": "/fizjoterapiazmiana/static/js/787.70fc8d95.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.cd948375.js"
+    "static/js/main.07e330d9.js"
   ]
 }
